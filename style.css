@@ -8,10 +8,20 @@ body {
 
 header {
     background-color: #2b2d8a;
-    color: white;
+    color: #2b2d8a;
     padding: 20px 0;
     text-align: center;
-    font-size: 24px;
+    font-size: 35px;
+
+}
+
+.header-text{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+    background-color: rgb(255, 255, 255);
+    display: inline;
+    padding: 5px 20px;
+    border-radius: 8px;
 }
 
 .container {
